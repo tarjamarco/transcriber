@@ -421,7 +421,8 @@
 
             try {
                 // Make API call to your Python backend
-                const response = await fetch('http://127.0.0.1:5000/transcribe', {
+                const response = await fetch('fetch('https://your-transcriber-backend.onrender.com/transcribes', {
+', {
                     method: 'POST',
                     body: formData
                 });
