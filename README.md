@@ -1,14 +1,3 @@
-Great — here is an improved **README.md** with:
-
-✔️ Beautiful badges
-✔️ A clean banner/logo placeholder
-✔️ A “Tech Stack” section (THM = tools/technologies/methods)
-✔️ More polished GitHub-friendly styling
-
-You can paste this directly into your repo.
-
----
-
 # 🎙️ Audio Transcription Tool
 
 ### *Real-time audio-to-text system using Flask + Faster Whisper + HTML/JS*
